@@ -1,5 +1,6 @@
 # Fav-我的网站收藏
 Favoriate websites of mine.
+
 # 艺术设计类
 - [站酷](http://www.zcool.com.cn/)
 - [优设](http://www.uisdc.com/)
@@ -13,6 +14,17 @@ Favoriate websites of mine.
 - [golaravel](http://wenda.golaravel.com/)
 - [Stack Overflow](http://stackoverflow.com/)
 
+# 新鲜天天有
+- [PIC.ME](http://www.ipc.me/)
+- [异次元软件世界](http://www.iplaysoft.com/)
+- [大眼仔](http://www.dayanzai.me/)
+- [小众软件](http://www.appinn.com/)
+- [阳光软件大世界](http://www.sun0816.com/)
+- [果壳网](http://www.guokr.com/)
+- [Win7之家](http://www.win7china.com/)
+- [engadget](http://cn.engadget.com/)
+- [驱动之家](http://www.mydrivers.com/)
+- [OPEN资讯](http://www.open-open.com/news/)
 
 # 综合下载
 - [kickasstorrents](http://kickasstorrents.to/)
