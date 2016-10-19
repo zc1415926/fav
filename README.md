@@ -36,6 +36,8 @@ Favoriate websites of mine.
 - [电影天堂](http://www.dytt8.net/index.html)
 
 # CG与Unity
+- [GFXDomain](http://gfxdomain.co/)
+- [CGPeers](https://www.cgpeers.com/index.php)
 - [纳金网](http://www.narkii.com/club/)
 - [CGsoso](http://www.cgsoso.com/)
 - [游戏蛮牛](http://www.unitymanual.com/)
