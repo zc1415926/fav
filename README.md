@@ -11,6 +11,10 @@ Favoriate websites of mine.
 - [CHH](https://www.chiphell.com)
 - [无忌](http://ww.xitek.com/)
 
+# 音乐
+- [Midifan](http://www.midifan.com/)
+- [叉烧网](http://www.exound.com/)
+
 # 程序设计
 - [oschina](http://www.oschina.net/)
 - [推酷](http://www.tuicool.com/search?kw=laravel)
