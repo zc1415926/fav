@@ -14,6 +14,9 @@ Favoriate websites of mine.
 # 音乐
 - [Midifan](http://www.midifan.com/)
 - [叉烧网](http://www.exound.com/)
+- [七线阁](http://www.dnyyjcw.com/)
+- [滚水网](http://www.imus.cn/new_video/)
+- [键盘中国](http://www.cnkeyboard.com/)
 
 # 程序设计
 - [oschina](http://www.oschina.net/)
