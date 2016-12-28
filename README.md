@@ -15,8 +15,17 @@ Favoriate websites of mine.
 - [Midifan](http://www.midifan.com/)
 - [叉烧网](http://www.exound.com/)
 - [七线阁](http://www.dnyyjcw.com/)
-- [滚水网](http://www.imus.cn/new_video/)
+- [滚水网](http://www.imus.cn/ke/msjs/pipi/)
 - [键盘中国](http://www.cnkeyboard.com/)
+- [编曲资源](http://www.bianquzy.com/)
+- [音色库](http://www.yinseku.com/)
+- [编曲中国](http://www.bianquchina.com/)
+- [草莓地]（http://canmidi.com/）
+- [音频应用](http://www.audiobar.net/)
+- [爱编曲](http://ibianqu.com/portal.php)
+- [音平资讯](http://zx.ingping.com/)
+- [人人钢琴网](http://www.everyonepiano.cn/)
+- [钢琴谱](http://pu.popiano.org/)
 
 # 程序设计
 - [oschina](http://www.oschina.net/)
@@ -38,6 +47,7 @@ Favoriate websites of mine.
 - [OPEN资讯](http://www.open-open.com/news/)
 
 # 综合下载
+- [NO1CG](http://www.no1cg.com/)
 - [kickasstorrents](http://kickasstorrents.to/)
 - [isohunt](https://isohunt.to/)
 - [extratorrent](http://extratorrent.cc/)
