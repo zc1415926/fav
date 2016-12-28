@@ -20,7 +20,7 @@ Favoriate websites of mine.
 - [编曲资源](http://www.bianquzy.com/)
 - [音色库](http://www.yinseku.com/)
 - [编曲中国](http://www.bianquchina.com/)
-- [草莓地]（http://canmidi.com/）
+- [草莓地](http://canmidi.com/)
 - [音频应用](http://www.audiobar.net/)
 - [爱编曲](http://ibianqu.com/portal.php)
 - [音平资讯](http://zx.ingping.com/)
