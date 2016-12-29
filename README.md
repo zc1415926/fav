@@ -6,6 +6,8 @@ Favoriate websites of mine.
 - [优设](http://www.uisdc.com/)
 - [艺品元素](http://www.epinv.com/)
 - [素材来咯！12个人气超高的顶尖图片资源网站](http://www.chinaz.com/free/2016/0413/521616.shtml)
+- [coolors](https://coolors.co/)
+- [Adobe Color](https://color.adobe.com/)
 
 # 摄影
 - [CHH](https://www.chiphell.com)
