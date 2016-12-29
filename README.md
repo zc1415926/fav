@@ -35,6 +35,7 @@ Favoriate websites of mine.
 - [Stack Overflow](http://stackoverflow.com/)
 
 # 新鲜天天有
+- [数字尾巴](http://www.dgtle.com/)
 - [PIC.ME](http://www.ipc.me/)
 - [异次元软件世界](http://www.iplaysoft.com/)
 - [大眼仔](http://www.dayanzai.me/)
