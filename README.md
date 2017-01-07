@@ -28,6 +28,7 @@ Favoriate websites of mine.
 - [音平资讯](http://zx.ingping.com/)
 - [人人钢琴网](http://www.everyonepiano.cn/)
 - [钢琴谱](http://pu.popiano.org/)
+- [环球钢琴网](http://www.hqgq.com/)
 
 # 程序设计
 - [oschina](http://www.oschina.net/)
