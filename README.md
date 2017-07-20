@@ -40,6 +40,7 @@ Favoriate websites of mine.
 # 新鲜天天有
 - [数字尾巴](http://www.dgtle.com/)
 - [什么值得买](http://post.smzdm.com/)
+- [少数派](https://sspai.com/)
 - [5X兴趣社区](http://www.xxxxxbbs.com/index)
 - [PIC.ME](http://www.ipc.me/)
 - [异次元软件世界](http://www.iplaysoft.com/)
