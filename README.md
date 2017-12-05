@@ -1,8 +1,9 @@
 # Fav-我的网站收藏
 Favoriate websites of mine.
 
-# 素材
+# 素材资源
 - [P界最全的素材资源](http://www.jianshu.com/p/8ade5768eabb)
+- [ed2000](http://www.ed2000.com/)
 
 # 艺术设计类
 - [站酷](http://www.zcool.com.cn/)
