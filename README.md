@@ -1,6 +1,9 @@
 # Fav-我的网站收藏
 Favoriate websites of mine.
 
+# 素材
+- [P界最全的素材资源](http://www.jianshu.com/p/8ade5768eabb)
+
 # 艺术设计类
 - [站酷](http://www.zcool.com.cn/)
 - [优设](http://www.uisdc.com/)
@@ -69,8 +72,9 @@ Favoriate websites of mine.
 - [纳金网](http://www.narkii.com/club/)
 - [CGsoso](http://www.cgsoso.com/)
 - [游戏蛮牛](http://www.unitymanual.com/)
-- [电艺网](http://www.zbooa.com/)
+- [泰斗社区](http://www.taidous.com/)
 - [圣典社区](http://www.ceeger.com/forum/)
+- [电艺网](http://www.zbooa.com/)
 - [CG织梦](http://www.cgdream.org/portal.php)
 - [C4Dsky](http://c4dsky.com/)
 - [艾迪尔](http://designbbs.ideasr.com/forum.php)
