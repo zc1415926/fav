@@ -1,6 +1,21 @@
 # Fav-我的网站收藏
 Favoriate websites of mine.
 
+# CG与游戏开发
+- [GFXDomain](http://gfxdomain.co/)
+- [书生C4Dsky](http://c4dsky.com/)
+- [龋齿一号gfxcamp](http://www.gfxcamp.com/)
+- [CGPeers](https://www.cgpeers.com/index.php)
+- [纳金网](http://www.narkii.com/club/)
+- [CGsoso](http://www.cgsoso.com/)
+- [ghostxx](http://ghostxx.com/)
+- [ghostxx](http://ghostxx.com/)
+- [微元素Element3ds](https://www.element3ds.com/)
+- [AboutCG](https://www.aboutcg.org/)
+- [CGTexture](http://www.textures.com/)
+- [游戏蛮牛](http://www.manew.com/)
+- [雨松MOMO](http://www.xuanyusong.com/)
+
 # 素材资源
 - [P界最全的素材资源](http://www.jianshu.com/p/8ade5768eabb)
 - [ed2000](http://www.ed2000.com/)
@@ -70,20 +85,3 @@ Favoriate websites of mine.
 - [迅影网](http://www.xunyingwang.com/)
 - [电影天堂](http://www.dytt8.net/index.html)
 
-# CG与Unity
-- [GFXDomain](http://gfxdomain.co/)
-- [CGPeers](https://www.cgpeers.com/index.php)
-- [纳金网](http://www.narkii.com/club/)
-- [CGsoso](http://www.cgsoso.com/)
-- [游戏蛮牛](http://www.unitymanual.com/)
-- [泰斗社区](http://www.taidous.com/)
-- [圣典社区](http://www.ceeger.com/forum/)
-- [电艺网](http://www.zbooa.com/)
-- [CG织梦](http://www.cgdream.org/portal.php)
-- [C4Dsky](http://c4dsky.com/)
-- [艾迪尔](http://designbbs.ideasr.com/forum.php)
-- [ghostxx](http://ghostxx.com/)
-- [gfxcamp](http://www.gfxcamp.com/)
-- [CGTexture](http://www.textures.com/)
-- [雨松MOMO](http://www.xuanyusong.com/)
-- [9ria](http://www.9ria.com/)
