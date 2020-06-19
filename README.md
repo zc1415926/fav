@@ -1,6 +1,3 @@
-# Fav-我的网站收藏
-Favoriate websites of mine.
-
 # CG与游戏开发
 - [GFXDomain](http://gfxdomain.co/)
 - [书生C4Dsky](http://c4dsky.com/)
@@ -68,7 +65,6 @@ Favoriate websites of mine.
 - [异次元软件世界](http://www.iplaysoft.com/)
 - [大眼仔](http://www.dayanzai.me/)
 - [小众软件](http://www.appinn.com/)
-- [阳光软件大世界](http://www.sun0816.com/)
 - [果壳网](http://www.guokr.com/)
 - [Win7之家](http://www.win7china.com/)
 - [engadget](http://cn.engadget.com/)
@@ -76,6 +72,7 @@ Favoriate websites of mine.
 - [OPEN资讯](http://www.open-open.com/news/)
 
 # 综合下载
+- [腾龙工作室](https://www.tenlonstudio.com/)
 - [NO1CG](http://www.no1cg.com/)
 - [kickasstorrents](http://kickasstorrents.to/)
 - [isohunt](https://isohunt.to/)
